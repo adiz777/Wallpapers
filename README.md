@@ -5,6 +5,7 @@ A curated collection of wallpapers organized by theme and style.
 ## Root Directory
 
 ![345780](./345780.jpg)
+![345780](./sakura_1.jpg)
 ![a beach with waves and rocks](./a_beach_with_waves_and_rocks.jpg)
 ![a bicycle leaning against a wall](./a_bicycle_leaning_against_a_wall.jpg)
 ![a bicycle parked on a street](./a_bicycle_parked_on_a_street.jpg)
@@ -234,6 +235,7 @@ A curated collection of wallpapers organized by theme and style.
 ![a mountain with clouds in the sky](./monochrome/a_mountain_with_clouds_in_the_sky.jpg)
 ![a person playing a guitar](./monochrome/a_person_playing_a_guitar.png)
 ![a street lights at night 01](./monochrome/a_street_lights_at_night_01.jpg)
+![detetcive spiderman ](./monochrome/detective-spiderman.jpg)
 
 ## Nord
 

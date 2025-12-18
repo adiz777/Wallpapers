@@ -6,6 +6,8 @@ A curated collection of wallpapers organized by theme and style.
 
 ![345780](./345780.jpg)
 ![345780](./sakura_1.jpg)
+![dark-mac](./mac_.jpg)
+![dark-mac-2](./mac__.jpg)
 ![a beach with waves and rocks](./a_beach_with_waves_and_rocks.jpg)
 ![a bicycle leaning against a wall](./a_bicycle_leaning_against_a_wall.jpg)
 ![a bicycle parked on a street](./a_bicycle_parked_on_a_street.jpg)
